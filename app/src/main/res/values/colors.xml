@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorShubuh">#4B77BE</color>
+    <color name="colorDzuhur">#F9BF3B</color>
+    <color name="colorAshar">#EB974E</color>
+    <color name="colorMaghrib">#336E7B</color>
+    <color name="colorIsya">#8E44AD</color>
+    <color name="colorAccentShubuh">#1F3A93</color>
+    <color name="colorAccentDzuhur">#F39C12</color>
+    <color name="colorAccentAshar">#D35400</color>
+    <color name="colorAccentMaghrib">#013243</color>
+    <color name="colorAccentIsya">#674172</color>
 </resources>
